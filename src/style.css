@@ -1,0 +1,9 @@
+form{
+    border:solid thin;
+    padding: 1%;
+    width: 255px;
+}
+marquee{
+    font-size: larger;
+    color:red;
+}
